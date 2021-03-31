@@ -1,4 +1,6 @@
 name: Henok's Webpage!
-title: null
+title: "Henok's Website"
+description: "Learn a little about me on this website"
 plugins:
   - jemoji
+theme: jekyll-theme-midnight
