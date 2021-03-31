@@ -3,4 +3,6 @@ title: "Henok's Website"
 description: "Learn a little about me on this website"
 plugins:
   - jemoji
-theme: jekyll-theme-midnight
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-time-machine
