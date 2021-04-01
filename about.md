@@ -8,10 +8,10 @@ As i mentioned earlier I have always been interested in computers growing up. As
 
 #### Interest/Hobbies
 1. Watching/playing sports
-  - Basketball
-  - Soccer
-1. Listening to Podcasts
-1. Going online and trying coding problems.
+  - Basketball :basketball:
+  - Soccer :soccer:
+1. Listening to Podcasts :studio_microphone:, and music :headphones:
+1. Going online and trying coding problems. :desktop_computer:
 
 #### Pictures
 Here is a picture of me and then also a picture of my dog, Simba.
